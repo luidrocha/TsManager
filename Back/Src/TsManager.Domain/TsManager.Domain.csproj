@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<!--camada de domínio contendo as entidades e regras de negócio do projeto;-->
+	<!--não depende de ninguém e por isso não contém nenhuma referência-->
+	
+	<PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
